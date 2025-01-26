@@ -5,5 +5,5 @@ hello, im dgtlnght! or digi or digtal..... blah blah blah
 <br/>
 🐈 | I am currently learning Kotlin and Rust
 <br/>
-🇦🇺 | I am from australia
+🏁 | I am from Australia
 <br/>
