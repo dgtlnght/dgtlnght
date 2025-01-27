@@ -7,3 +7,5 @@ hello, im dgtlnght! or digi or digtal..... blah blah blah
 <br/>
 🏁 | I am from Australia
 <br/>
+👍 | Add me on discord! dgtlnght
+<br/>
