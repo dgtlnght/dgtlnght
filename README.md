@@ -1,7 +1,7 @@
-hello, im dgtlnght! or digi or digtal..... blah blah blah
+hello, im dgtlnght! or digi or digital..... blah blah blah
 <br/>
 <br/>
-💾 | I am currently working on https://felixargyle.dev and koise
+💾 | I am currently working on https://felixargyle.dev (more things are coming i promise)
 <br/>
 🐈 | I am currently learning Kotlin and Rust
 <br/>
